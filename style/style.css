@@ -1,0 +1,142 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1200px;
+    margin: 60px auto;
+    display: flex;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.ul {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    margin: 0 80px;
+    font-size: 20px;
+}
+
+.button {
+    width: 105px;
+    height: 40px;
+    position: relative;
+    position: absolute;
+    left: 1003px;
+    font-size: 20px;
+    margin: 10px 180px;
+    border-color: rgba(43, 208, 208, 1);
+    border-radius: 20px;
+    background: rgba(43, 208, 208, 1);
+    color: white;
+}
+
+h2 {
+    width: 400px;
+    margin: 80px 0 10px;
+    font-size: 60px;
+}
+
+.p {
+    font-size: 22px;
+    color: rgba(158, 154, 168, 1);
+    margin: 10px 0 30px;
+}
+
+.buttun {
+    width: 197px;
+    height: 56px;
+    border-radius: 30px;
+    background-color: rgba(43, 208, 208, 1);
+    border-color: rgba(43, 208, 208, 1);
+    color: white;
+}
+
+.position {
+    width: 1110px;
+    height: 168px;
+    position: relative;
+    position: absolute;
+    top: 709px;
+    left: 165px;
+    background: rgba(58, 48, 84, 1);
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.coment {
+    width: 769px;
+    height: 64px;
+    padding: 0 20px;
+    border-radius: 10px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    color: rgba(52, 49, 61, 1);
+
+}
+
+.go {
+    width: 147px;
+    height: 60px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: left;
+    background-color: rgba(43, 208, 208, 1);
+}
+
+
+.next {
+    width: 1440px;
+    height: 350px;
+    margin: 150px 0 0 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(90, 33, 5);
+    font-size: 40px;
+    color: white;
+}
+
+.buttin {
+    width: 197px;
+    height: 56px;
+    margin: 10px 80px;
+    border-radius: 30px;
+    background-color: rgba(43, 208, 208, 1);
+    border-color: rgba(43, 208, 208, 1);
+    color: white;
+}
+
+footer {
+    height: 200px;
+    width: 100%;
+    height: 150.2px;
+    position: relative;
+    position: absolute;
+    top: 1071px;
+    background-color: rgba(35, 33, 39, 1);
+    color: white;
+}
+
+.finish {
+    width: 168px;
+    height: 20px;
+    top: 1144px;
+    left: 1102px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    margin: 20px 500px 
+}
